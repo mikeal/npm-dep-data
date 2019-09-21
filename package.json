@@ -3,7 +3,7 @@
   "version": "0.0.0-dev",
   "description": "",
   "bin": {
-    "npm-dep-data": "./lib/action.js"
+    "npm-dep-data": "./cli.js"
   },
   "keywords": [],
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com> (https://www.mikealrogers.com/)",
