@@ -16,6 +16,6 @@
     "semver": "^6.3.0"
   },
   "devDependencies": {
-    "standard": "^14.1.0"
+    "standard": "^14.3.1"
   }
 }
